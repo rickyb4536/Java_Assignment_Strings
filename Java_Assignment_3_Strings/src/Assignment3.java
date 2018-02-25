@@ -9,8 +9,7 @@ public class Assignment3 {
 		if (one == two) {
 			System.out.println("Equal");
 		}else {
-			System.out.println("Not equal"
-					+ "");
+			System.out.println("Not equal" + "");
 		}
 	}
 
